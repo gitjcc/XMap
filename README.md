@@ -1,2 +1,2 @@
-# smap
-Amap &amp; Bmap &amp; google.maps
+# SMap
+AMap &amp; BMap &amp; google.maps
